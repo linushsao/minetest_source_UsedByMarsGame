@@ -1,0 +1,390 @@
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XOpenDisplay exists in the /usr/lib/i386-linux-gnu/libX11.so;/usr/lib/i386-linux-gnu/libXext.so failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet failed with the following output:
+
+
+Determining if the function dnet_ntoa exists in the dnet_stub failed with the following output:
+
+
+Determining if the function gethostbyname exists failed with the following output:
+
+
+Determining if the function gethostbyname exists in the nsl failed with the following output:
+
+
+Determining if the function gethostbyname exists in the bsd failed with the following output:
+
+
+Determining if the function connect exists failed with the following output:
+
+
+Determining if the function connect exists in the socket failed with the following output:
+
+
+Determining if the function remove exists failed with the following output:
+
+
+Determining if the function remove exists in the posix failed with the following output:
+
+
+Determining if the function shmat exists failed with the following output:
+
+
+Determining if the function shmat exists in the ipc failed with the following output:
+
+
+Determining if the BZ2_bzCompressInit exist failed with the following output:
+
+File /home/linus/Downloads/src/minetest_latest/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <bzlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef BZ2_bzCompressInit
+  return ((int*)(&BZ2_bzCompressInit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function clock_gettime exists in the rt failed with the following output:
+
+
+Determining if files endian.h exist failed with the following output:
+
+Source:
+/* */
+#include <endian.h>
+
+
+int main(void){return 0;}
+
